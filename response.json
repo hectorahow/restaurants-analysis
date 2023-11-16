@@ -1,0 +1,672 @@
+{
+   "html_attributions" : [],
+   "result" : 
+   {
+      "address_components" : 
+      [
+         {
+            "long_name" : "1611",
+            "short_name" : "1611",
+            "types" : 
+            [
+               "street_number"
+            ]
+         },
+         {
+            "long_name" : "Lamar Street",
+            "short_name" : "Lamar St",
+            "types" : 
+            [
+               "route"
+            ]
+         },
+         {
+            "long_name" : "Central Business District",
+            "short_name" : "Central Business District",
+            "types" : 
+            [
+               "neighborhood",
+               "political"
+            ]
+         },
+         {
+            "long_name" : "Houston",
+            "short_name" : "Houston",
+            "types" : 
+            [
+               "locality",
+               "political"
+            ]
+         },
+         {
+            "long_name" : "Harris County",
+            "short_name" : "Harris County",
+            "types" : 
+            [
+               "administrative_area_level_2",
+               "political"
+            ]
+         },
+         {
+            "long_name" : "Texas",
+            "short_name" : "TX",
+            "types" : 
+            [
+               "administrative_area_level_1",
+               "political"
+            ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : 
+            [
+               "country",
+               "political"
+            ]
+         },
+         {
+            "long_name" : "77010",
+            "short_name" : "77010",
+            "types" : 
+            [
+               "postal_code"
+            ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1611 Lamar St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHouston\u003c/span\u003e, \u003cspan class=\"region\"\u003eTX\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e77010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "current_opening_hours" : 
+      {
+         "open_now" : false,
+         "periods" : 
+         [
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-20",
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-20",
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-21",
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-21",
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-21",
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-21",
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-15",
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-15",
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-15",
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-15",
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-16",
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-16",
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-16",
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-16",
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-17",
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-17",
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-17",
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-17",
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "date" : "2023-11-18",
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : 
+               {
+                  "date" : "2023-11-18",
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : 
+         [
+            "Monday: 11:00 AM – 3:00 PM",
+            "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+            "Saturday: 5:00 – 10:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "dine_in" : true,
+      "editorial_summary" : 
+      {
+         "language" : "en",
+         "overview" : "An airy, modern interior sets the stage for a rustic menu featuring salad, steak & sandwiches."
+      },
+      "formatted_address" : "1611 Lamar St, Houston, TX 77010, USA",
+      "formatted_phone_number" : "(713) 337-7321",
+      "geometry" : 
+      {
+         "location" : 
+         {
+            "lat" : 29.7527193,
+            "lng" : -95.36039869999999
+         },
+         "viewport" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 29.7539908302915,
+               "lng" : -95.35911031970849
+            },
+            "southwest" : 
+            {
+               "lat" : 29.7512928697085,
+               "lng" : -95.3618082802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+1 713-337-7321",
+      "name" : "The Grove",
+      "opening_hours" : 
+      {
+         "open_now" : false,
+         "periods" : 
+         [
+            {
+               "close" : 
+               {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : 
+               {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : 
+               {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : 
+               {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : 
+               {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : 
+               {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : 
+         [
+            "Monday: 11:00 AM – 3:00 PM",
+            "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+            "Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+            "Saturday: 5:00 – 10:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : 
+      [
+         {
+            "height" : 1500,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117211964055061545886\"\u003eThe Grove\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuEK8vyulPjHtNVe3jZ5IjqWBhfY9SdnOXM8j48xTMUCP6WMhsKzt9RTg7qlx9gNvZ2dQ-1LP0nWNs72A5YysYIveZl-kqr0aRGgCujTqEU4ftpT8D7rrd0xNiJKRkDNWy25C4WMeXzugioSd65TGu4GS_43PY8qDczX9b5eX7zZ2tdh",
+            "width" : 1500
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116613179991120472987\"\u003eDavid Bines\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuGmMXLTRfaPqGCnpKOEjevdmRH7rO4pp6NQgidYI7kK83YN9xE4hHZDfNAJV3mLoxnvGbW5VSPQxCScAXQsBDYwXMIDjuU9H8R5n2TYQa2zIZqO9sLt_PjG4bAJ29tpO_jILTDz9zx0KQ1NiFhke9WyTSpbk-W9Uhtw6i4CvzB2b3mF",
+            "width" : 3024
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116462124790952928468\"\u003eAmanda Neese\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuGz-NRN0KrDjBLfaaZv_hhJ1QkNP6CFNQeMQeQ3LBvW-tQNWBu1SUTa6zPiUUH2qH9uQkBfYB56zPqTGCEyQg4fRBVcI0OcbxpS3cMtOYzLh_RRIUYlFjYykOoJwfNgqFjBMf1LhnjA2NIYvdoUIRizHadWCGhxmM7tyRwnqK4bEl_6",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117373738442021074174\"\u003eGina Reinke\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuG7mW4GtsYJz1BIvrFroXddaXIswXzmQnxxr7HXmnDDmHD74O435AX7JXQn5wU6vzAgaMhyQsL-X5NjZlAFox5a-_xDZKxE9g-jCd2QOtHg5c7ECcLMzgrwaLccPG09e0Gn2aqCy73SkUVuXqUhReXGBaTPM6MJ1iPxflb8v4pixmP0",
+            "width" : 4032
+         },
+         {
+            "height" : 2252,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116698272904967257825\"\u003eRodney Bell\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuHWdjz1ztHqbuoubLR5Rki-PMsKK0v-vat0q3uoNlXnJPARxzTsdAv7uR3BXDiBa5bQW9N8wj4Uf4-n5uaSmYZkAfdsZVZOd4F10dxnO1SisN0fmlxIPY-3sc8_z0tDL3YHbp20ySO7nS7KtXxYC9HI9GLw6KLBIUFEjfOMd0Dhxe7h",
+            "width" : 4000
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115283196923457518073\"\u003eBetty Pichardo\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuF1u0OcQyY6lz15Z4bNVD1QULzTT2KI6h3wKm1y3wyvmHnGOJh3bGfCO7j2oC5CK5g6SkO-9F4DhyhvbAy1szSF_xr1JjTaVRqL9dFUcURVPKslTVsLGewgAM-cLC7N85LV7WteLoOWnz_SidfTYtW7Sc0yyQjt3CBB4rNZhyQU4lGI",
+            "width" : 2268
+         },
+         {
+            "height" : 2080,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111679963821020770529\"\u003eRonald Beam\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuFDAZygC32Rg8ipmklP7vVbRyj5acdVa_6CPHQFj1QxG7bEAclb6xgtjiSIj8l5rWAUfxvU9C35EusFERyceKe8T3Ny5d262yoqkeR6JbXMfqOugXkyfrwrChOq3WuXbwgJKS7dahZKeXHVA2B1pLvlJYox7nQgV_zBvX0x9VR_relM",
+            "width" : 4160
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116462124790952928468\"\u003eAmanda Neese\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuFvNcrToQsauGm_zkWBRByJzaRHi4lgJx-g7uu_Mr3Wr1hkBNIALgOPsJ2CJjndzYiNeQxOVSImG6uftRigvlpv7UBdHB4mZC9L4u-W597OqPRJtpRDpouOtmJhxB-VV6cJkuegqBadPWfRBcD5m7EJlRqII2m49KTMiY_-iBz9KzYD",
+            "width" : 4608
+         },
+         {
+            "height" : 639,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114685337799455070631\"\u003eDennis Garrett\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuG9QZpB-u4ofaY7Ib8aAninuiLAFQE0eGcZj7wnAF4rKnrQSZqF6SV3Zb8idPADvXX1prRQlXYX2VJ_-OyxADpj6304S-RINmLjajk5blXQBx-a6LJH7mZwUtoafvzl7u1ODv_tvCiKTI5Ot9L1qo1mny1JQBib0BVs0YX3FbO1TgMG",
+            "width" : 1047
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : 
+            [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105440932897841274715\"\u003eFelicia\u003c/a\u003e"
+            ],
+            "photo_reference" : "AcJnMuGWMzYF1lEiznQs2D-KfkAebVcJ74WoDsoGphZMzO2tLpoKHNxyXelcjQulV48DTbkBQ0K8czC-1F36VRFfKSXUds2OMOJWNyy3x6wwQM0upg_RhRw-IghdDLNQ_1mpStnbqbxv5bumAUJDykutGWFBz62Jpl0HB-XiKCBrPW0gP40s",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJdaSs5CK_QIYRE4los34KzVg",
+      "plus_code" : 
+      {
+         "compound_code" : "QJ3Q+3R Central Business District, Houston, TX, USA",
+         "global_code" : "76X6QJ3Q+3R"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJdaSs5CK_QIYRE4los34KzVg",
+      "reservable" : true,
+      "reviews" : 
+      [
+         {
+            "author_name" : "Felicia",
+            "author_url" : "https://www.google.com/maps/contrib/105440932897841274715/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/ALV-UjVOFZawH6i02a2R2zwfrWi1eU_bnirERcVrUE4K311j4SQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "Appetizer was the bread and blue crab corn fritters. The fritters were tasty. Nice outside. Excellent chunks of crab. I liked the sauce for them as well. The kale salad and red fish was great. The fish was cooked perfectly. The fried potatoes salad was a surprise hit. I’ve never seen that item on a menu. My friend got the wedge salad. She loveddd it. Service was amazing as well. Definitely want to go back!",
+            "time" : 1685743677,
+            "translated" : false
+         },
+         {
+            "author_name" : "Eman A",
+            "author_url" : "https://www.google.com/maps/contrib/103844411323420599638/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/ALV-UjUqH90MP34GuiNjgO8zqdumqbp3CmfuiYG3KtRv89Xc-FQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "Our experience was excellent, we had a nice window seat and the restaurant was open and airy. We ordered the summer Burratta with focaccia bread and it was very refreshing. Very enjoyable with an amazing vinaigrette dressing. The steak was cooked perfectly and full of flavor. We loved the fact that the oysters were large and full of flavor. Stir fry shrimp had the perfect level of spice it doesn’t come too spicy but you can always add more. The restaurant was kind enough to send us a slice of cake for our anniversary as well. I also have nothing but good things to say about our waiter, Rick. Thanks for your suggestions and taking the time to explain pairings with us.",
+            "time" : 1685767783,
+            "translated" : false
+         },
+         {
+            "author_name" : "Jorge Alexander Cardona",
+            "author_url" : "https://www.google.com/maps/contrib/109571870331362468623/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/ALV-UjUauat10zFEgGbTdAEeXWR_zDf3WSW76tatr7CVvl4SuaA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "Food and service was great. Only issue is that it’s incredibly overpriced. $8 to add 1/2 an avocado to a salad. Also, they charge for substitutions, even if they are they same price. $2 substitution fee for green beans instead of asparagus. $2 fee for regular mashed potatoes instead of fried potato salad. This is on top of the $46 price for a filet.\nIf you want to feel extremely nickel and dimed, this is the place to go.",
+            "time" : 1655342569,
+            "translated" : false
+         },
+         {
+            "author_name" : "jason shaw",
+            "author_url" : "https://www.google.com/maps/contrib/103085155851770490614/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/ACg8ocJZmDO6Xvlk2K6c32ouL27etArOFZTv2QkWof-u8eXZ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 months ago",
+            "text" : "Fantastic food, great atmosphere, and amazing service! Our waiter Rick P. went above and beyond his duties! An all-around wonderful experience.",
+            "time" : 1688045933,
+            "translated" : false
+         },
+         {
+            "author_name" : "Alexander Aspects Interior Design",
+            "author_url" : "https://www.google.com/maps/contrib/118222241705613972391/reviews",
+            "language" : "en",
+            "original_language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/ALV-UjWWcR3KZ1Xvg3UV1Z0pwazI2NfnunsvmLo4QwZknu6zwzvC=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "This place was excellent\nThe food was amazing and the ambience is stellar.  We will be back soon and often.  Loved the dress code and the staff's alertness. We had a fantastic time. We were close enough to the Beyonce event that we watched the drone show. You can't beat that. We attended a friend's wedding reception here and it did not disappoint. 👏🏿",
+            "time" : 1695651434,
+            "translated" : false
+         }
+      ],
+      "secondary_opening_hours" : 
+      [
+         {
+            "open_now" : false,
+            "periods" : 
+            [
+               {
+                  "close" : 
+                  {
+                     "date" : "2023-11-21",
+                     "day" : 2,
+                     "time" : "1900"
+                  },
+                  "open" : 
+                  {
+                     "date" : "2023-11-21",
+                     "day" : 2,
+                     "time" : "1700"
+                  }
+               },
+               {
+                  "close" : 
+                  {
+                     "date" : "2023-11-15",
+                     "day" : 3,
+                     "time" : "1900"
+                  },
+                  "open" : 
+                  {
+                     "date" : "2023-11-15",
+                     "day" : 3,
+                     "time" : "1700"
+                  }
+               },
+               {
+                  "close" : 
+                  {
+                     "date" : "2023-11-16",
+                     "day" : 4,
+                     "time" : "1900"
+                  },
+                  "open" : 
+                  {
+                     "date" : "2023-11-16",
+                     "day" : 4,
+                     "time" : "1700"
+                  }
+               },
+               {
+                  "close" : 
+                  {
+                     "date" : "2023-11-17",
+                     "day" : 5,
+                     "time" : "1900"
+                  },
+                  "open" : 
+                  {
+                     "date" : "2023-11-17",
+                     "day" : 5,
+                     "time" : "1700"
+                  }
+               }
+            ],
+            "type" : "HAPPY_HOUR",
+            "weekday_text" : 
+            [
+               "Monday: Closed",
+               "Tuesday: 5:00 – 7:00 PM",
+               "Wednesday: 5:00 – 7:00 PM",
+               "Thursday: 5:00 – 7:00 PM",
+               "Friday: 5:00 – 7:00 PM",
+               "Saturday: Closed",
+               "Sunday: Closed"
+            ]
+         }
+      ],
+      "serves_beer" : true,
+      "serves_breakfast" : false,
+      "serves_brunch" : true,
+      "serves_dinner" : true,
+      "serves_lunch" : true,
+      "serves_vegetarian_food" : true,
+      "serves_wine" : true,
+      "takeout" : true,
+      "types" : 
+      [
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=6398782184855472403",
+      "user_ratings_total" : 1149,
+      "utc_offset" : -360,
+      "vicinity" : "1611 Lamar Street, Houston",
+      "website" : "http://thegrovehouston.com/",
+      "wheelchair_accessible_entrance" : true
+   },
+   "status" : "OK"
+}
